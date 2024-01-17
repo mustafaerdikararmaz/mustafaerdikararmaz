@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Mustafa Erdi Kararmaz
+💬 My name is Mustafa Erdi Kararmaz. 
+🔭 I am currently working on optimization algorithms and stochastic processes as well as adaptive filters in DSP.
+🌱 This page might also have some homeworks, projects and lecture notes that you can find usefull.
+📫 You can reach me on m.erdikararmaz@gmail.com e-mail adress if you have any ideas or questions.
+
 
 <!--
 **mustafaerdikararmaz/mustafaerdikararmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
