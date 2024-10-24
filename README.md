@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 💬 My name is Mustafa Erdi Kararmaz. 
-### 🔭 I am currently working on optimization algorithms and stochastic processes as well as adaptive filters in DSP.
+### 🔭 I am currently working on optimization algorithms and medical systems.
 ### 🌱 This page might also have some homeworks, projects and lecture notes that you can find usefull.
 ### 📫 You can reach me on m.erdikararmaz@gmail.com e-mail adress if you have any ideas or questions.
 
