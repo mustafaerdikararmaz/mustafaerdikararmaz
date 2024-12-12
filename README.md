@@ -16,34 +16,6 @@ Master's in Electrical Engineering and Information Technology (Biomedical System
 Bachelor's in Electrical-Electronics Engineering  
 - **Key Topics**: Analog/Digital Circuit Design, Biomedical Signals, Signal Processing, Computational Intelligence
 
----
-
-## 💼 Experience
-
-### ASELSAN A.Ş.  
-**Candidate Engineer** (Nov 2023 – Jul 2024)  
-- Designed adaptive filters to mitigate jamming signals.  
-- Developed an FIR filter tool for VHDL integration.  
-- **Skills Gained**: Signal Processing, VHDL, Adaptive Filtering, FPGA Development
-
-**Intern** (Jun 2023 – Aug 2023)  
-- Designed a Single-Tone Frequency Estimator in MATLAB and implemented it in VHDL for hardware testing.  
-- **Skills Gained**: VHDL, Signal Processing, Hardware Simulation  
-
-### ACCELERATE Simulation Technologies  
-**Intern** (Jul 2022 – Aug 2022)  
-- Created optimization algorithms to simplify electromagnetic problems using current coefficients.  
-- **Skills Gained**: MATLAB, Optimization Algorithms  
-
----
-
-## 📚 Publications
-
-📄 **Conference Papers**  
-- M.E. Kararmaz, Ö. Eriş, and Ö. Ergül, *"Genetic-algorithm optimizations for satisfying equivalent scattering properties via electric currents,"* Turkish URSI Scientific Symposium, 2023.  
-
-📖 **Abstracts**  
-- M.E. Kararmaz, Ö. Eriş, and Ö. Ergül, *"Genetic Algorithm Optimizations on Digital Electric Currents for Equivalent Scattering Properties,"* Computational Science and Engineering Conference (BEYOND), 2023.  
 
 ---
 
